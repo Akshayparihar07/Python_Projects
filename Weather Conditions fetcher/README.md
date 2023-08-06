@@ -1,6 +1,17 @@
-# About Project
-A simple weather conditions fetcher that uses the OpenWeatherMap API to fetch weather data for any location in the world. 
+# Weather Data Fetcher
 
- # Installation 
- $ pip install requests
- 
+This mini project fetches weather data from the OpenWeatherMap API and displays it in a terminal.
+
+## Requirements
+
+* Python 3
+* The OpenWeatherMap API key (you can get one for free at https://openweathermap.org/api)
+
+## Installation
+
+pip install requests
+
+
+## Usage
+
+python weather_data_fetcher.py
