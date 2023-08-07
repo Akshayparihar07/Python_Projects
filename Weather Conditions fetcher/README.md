@@ -13,6 +13,8 @@ This mini project fetches weather data such as Temperature and weather condition
 ```pip install requests```
 
 
-## Usage
+## How to Run this Program
 
 ```python weather_data_fetcher.py```
+
+## Sample Usage
