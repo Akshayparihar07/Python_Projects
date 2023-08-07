@@ -1,6 +1,6 @@
 # Weather Data Fetcher
 
-This mini project fetches weather data from the OpenWeatherMap API and displays it in a terminal.
+This mini project fetches weather data such as Temperature and weather conditions from the OpenWeatherMap API and displays it in a terminal.
 
 ## Requirements
 
