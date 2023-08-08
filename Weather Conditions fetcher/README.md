@@ -18,3 +18,9 @@ This mini project fetches weather data such as Temperature and weather condition
 ```python weather_data_fetcher.py```
 
 ## Sample Usage
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+I hope this is helpful!
