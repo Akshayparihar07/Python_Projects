@@ -5,20 +5,24 @@ This project uses the instaloader library to download metadata, profile picture,
 ## Installation and Requirements
 
 To use this project, first install the instaloader library with the following command: 
+
 `pip install instaloader`
 
 ## How to run this File
 Enter your Instagram username and password to the following variables:
+
 `USER` = "your_username"
+
 `PASSWORD` = "your_password"
 
 Finally, Run the following command to download the metadata, profile picture, posts, and stories from your Instagram profile:
+
 `python instagram_user_data_fetcher.py`
 
 
 ## Output
 
-The output of this project will be a directory called `output`. This directory will contain the following files:
+The output of this project will be a directory called `output` . This directory will contain the following files:
 
 * `metadata.json`: This file contains the metadata for the Instagram profile, including the username, full name, number of followers, number of followings, number of posts, etc.
 * `profile_pic.jpg`: This file contains the profile picture for the Instagram profile.
