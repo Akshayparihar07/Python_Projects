@@ -8,7 +8,7 @@ To use this project, first install the instaloader library with the following co
 `pip install instaloader`
 
 ## How to run this File
-add your Instagram username and password to the following variables:
+Enter your Instagram username and password to the following variables:
 `USER` = "your_username"
 `PASSWORD` = "your_password"
 
