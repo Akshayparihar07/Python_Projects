@@ -22,6 +22,10 @@ To run the clock, simply clone this repository and open the `digital_clock.py` f
 * To change the font, size, or color of the clock, edit the properties of the `label` widget.
 * To stop the clock, press `Ctrl`+`C` in the Python interpreter.
 
+## Author
+
+* This project was created by `Akshay Parihar`
+
 ## License
 
 This project is licensed under the MIT License.
