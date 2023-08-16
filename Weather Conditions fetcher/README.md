@@ -17,7 +17,9 @@ This mini project fetches weather data such as Temperature and weather condition
 
 ```python weather_data_fetcher.py```
 
-## Sample Usage
+## Author
+
+* This project was created by `Akshay Parihar`
 
 ## License
 
