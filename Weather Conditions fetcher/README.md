@@ -23,6 +23,6 @@ This mini project fetches weather data such as Temperature and weather condition
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+* This project is licensed under the MIT License. See the LICENSE file for more information.
 
 I hope this is helpful!
