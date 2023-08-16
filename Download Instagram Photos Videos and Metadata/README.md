@@ -1,15 +1,15 @@
 # Instagram User Data Fetcher
 
-This project uses the instaloader library to download metadata, profile picture, posts, and stories from an Instagram profile.
+* This project uses the instaloader library to download metadata, profile picture, posts, and stories from an Instagram profile.
 
 ## Installation and Requirements
-
-To use this project, first install the instaloader library with the following command: 
+* Language: `python3` 
+* To use this project, first install the instaloader library with the following command: 
 
 `pip install instaloader`
 
 ## How to run this File
-Enter your Instagram username and password to the following variables:
+*Enter your Instagram username and password to the following variables:
 
 `USER` = "your_username"
 
@@ -22,7 +22,7 @@ Finally, Run the following command to download the metadata, profile picture, po
 
 ## Output
 
-The output of this project will be a directory called `output` . This directory will contain the following files:
+* The output of this project will be a directory called `output` . This directory will contain the following files:
 
 * `metadata.json`: This file contains the metadata for the Instagram profile, including the username, full name, number of followers, number of followings, number of posts, etc.
 * `profile_pic.jpg`: This file contains the profile picture for the Instagram profile.
@@ -30,8 +30,13 @@ The output of this project will be a directory called `output` . This directory 
 * `stories`: This directory contains all of the stories from the Instagram profile. Each story is a separate file in MP4 format.
 
 
+## Clone this repository
+* Clone this repository to your local machine:
+`git clone https://github.com/your-username/instaloader-project.git
+cd instaloader-project`
+
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+* This project is licensed under the MIT License. See the LICENSE file for more information.
 
 
 I hope this is helpful!
