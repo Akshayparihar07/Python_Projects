@@ -19,7 +19,7 @@ python youtube_video_downloader.py
 
 ## Usage
 
-The script will prompt you to enter the URL of the video you want to download. Once you have entered the URL, the script will download the video and save it to a file called `video.mp4`.
+* The script will prompt you to enter the URL of the video you want to download. Once you have entered the URL, the script will download the video and save it to a file called `video.mp4`.
 
 ## Options
 
@@ -33,7 +33,7 @@ The script has a few options that you can use to customize the download process.
 * To download a video in 720p and save it to a file called `my_video.mp4`, you would use the following command:
 
 
-python youtube_downloader.py -q 720p -o my_video.mp4
+* python youtube_downloader.py -q 720p -o my_video.mp4
 
 
 ## Author
@@ -43,4 +43,3 @@ python youtube_downloader.py -q 720p -o my_video.mp4
 ## License
 
 * This project is licensed under the MIT License.
-```
