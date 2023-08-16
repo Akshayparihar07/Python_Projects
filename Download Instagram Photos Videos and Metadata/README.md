@@ -19,6 +19,9 @@ Finally, Run the following command to download the metadata, profile picture, po
 
 `python instagram_user_data_fetcher.py`
 
+## Author
+
+* This project was created by `Akshay Parihar`
 
 ## Output
 
