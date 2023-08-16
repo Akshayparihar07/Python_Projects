@@ -30,11 +30,6 @@ Finally, Run the following command to download the metadata, profile picture, po
 * `stories`: This directory contains all of the stories from the Instagram profile. Each story is a separate file in MP4 format.
 
 
-## Clone this repository
-* Clone this repository to your local machine:
-`git clone https://github.com/your-username/instaloader-project.git
-cd instaloader-project`
-
 ## License
 * This project is licensed under the MIT License. See the LICENSE file for more information.
 
