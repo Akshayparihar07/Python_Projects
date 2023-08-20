@@ -4,7 +4,7 @@
 
 * Each project includes a README.md file that describes the project in more detail and provides instructions on how to run the project.
 
-*To get started, you can either clone the repository to your local machine or create a new repository and add the projects to it. Once you have the projects on your local machine, you can run them by opening a terminal window and navigating to the directory where the project is located. Then, you can run the project by typing the following command:
+* To get started, you can either clone the repository to your local machine or create a new repository and add the projects to it. Once you have the projects on your local machine, you can run them by opening a terminal window and navigating to the directory where the project is located. Then, you can run the project by typing the following command:
 
 
 `python [file name].py`
