@@ -1,5 +1,7 @@
 # Python Mini Projects
 
+## Contributing
+
 * This repository contains a collection of small Python projects that are designed to help you learn and practice your Python programming skills.
 
 * Each project includes a README.md file that describes the project in more detail and provides instructions on how to run the project.
