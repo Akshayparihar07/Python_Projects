@@ -14,6 +14,7 @@ I hope you enjoy these Python mini projects!
 
 ## Contributing
 
+
 If you would like to contribute to this repository, please feel free to fork the repository and create a pull request. When contributing, please make sure to follow the following guidelines:
 
 * Use descriptive commit messages.
@@ -22,12 +23,15 @@ If you would like to contribute to this repository, please feel free to fork the
 
 ## Feedback
 
+
 If you have any feedback on this repository, please feel free to open an issue.
 
 ## Author
 
+
 This repository was created by Akshay Parihar.
 
 ## License
+
 
 This repository is licensed under the MIT License.
