@@ -71,6 +71,9 @@ git push origin feature-new-feature
 ```
 Open a pull request on GitHub.
 
+## Author
+* This project was created by `Akshay Parihar`
+
 ## License
 This project is licensed under the MIT License.
 
